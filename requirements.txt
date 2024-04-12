@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pysqlite3-binary
 langchain
 chromadb
@@ -11,7 +10,6 @@ pypdf
 loguru
 docx2txt
 openai
-=======
 pysqlite3-binary
 langchain
 chromadb
@@ -23,5 +21,3 @@ gemini
 pypdf
 loguru
 docx2txt
-openai
->>>>>>> a6c7589c62ef41480aa46adf6948a3f2eacb346f
